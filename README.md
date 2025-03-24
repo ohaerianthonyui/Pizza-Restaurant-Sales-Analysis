@@ -96,5 +96,3 @@ Based on the findings, the following recommendations can help Plato’s Pizza op
 
 ---
 
-**End of Report**
-
