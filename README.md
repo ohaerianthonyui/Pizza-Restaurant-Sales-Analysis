@@ -17,7 +17,7 @@ To conduct this analysis, we utilized the following tools and techniques:
 
 - **Data Collection**: Transactional data provided by Plato’s Pizza, including sales, order counts, and product details (pizza types, sizes, and ingredients).
 - **Data Cleaning**: Removing any duplicates, filling in missing values, and standardizing data formats.
-- **Data Visualization**: Power BI or similar visualization tools were used to generate charts and graphs to visualize trends.
+- **Data Visualization**: Power BI and Python were used to generate charts and graphs to visualize trends.
 - **Statistical Analysis**: Descriptive statistics, correlation analysis, and trend analysis were applied to derive insights.
 - **DAX Measures**: Custom DAX formulas were used to calculate key metrics like total sales, average order value, revenue by pizza type, and more.
 
